@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22134
-Fork on GitHub
-7089
 
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Kush Sharma</h1>
 <h3 align="center">A passionate frontend developer and a coder from India</h3>
 
