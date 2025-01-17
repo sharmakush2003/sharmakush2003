@@ -1,6 +1,3 @@
-Here's an updated version of your GitHub profile, now with your portfolio link added. I hope you like it!
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
