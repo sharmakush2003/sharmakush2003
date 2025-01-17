@@ -1,3 +1,7 @@
+Here's an updated version of your GitHub profile, now with your portfolio link added. I hope you like it!
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
@@ -17,7 +21,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 - 🔭 I’m currently working on **Web Development Projects**
-
+- 🌐 Check out my portfolio [here](https://sharmakush2003.github.io/portFolio/)
 - 📫 How to reach me **kushsharma.cor@gmail.com**
 
 ---
@@ -86,3 +90,7 @@
     <img src="https://user-images.githubusercontent.com/63889819/110340434-e84cfd00-804d-11eb-843e-029fef58c590.gif" alt="New Animation" width="500"/> 
   </a> 
 </p>
+
+---
+
+Feel free to let me know if there's anything else you need help with. 🚀
