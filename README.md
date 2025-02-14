@@ -26,22 +26,23 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="center"> 
-  <a href="https://linkedin.com/in/kush-sharma-9721a02ab" target="blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> 
-  </a> 
-  <a href="https://www.codechef.com/users/kush_sharma_25" target="blank"> 
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /> 
-  </a> 
-  <a href="https://www.hackerrank.com/kushsharma_cor" target="blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /> 
-  </a> 
-  <a href="https://www.leetcode.com/sharma_kush_" target="blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /> 
-  </a> 
-  <a href="https://auth.geeksforgeeks.org/user/kushsharma_2516" target="blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /> 
-  </a> 
+
+<p align="center">
+  <a href="https://linkedin.com/in/kush-sharma-9721a02ab" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.codechef.com/users/kush_sharma_25" target="blank">
+    <img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/kushsharma_cor" target="blank">
+    <img align="center" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.leetcode.com/sharma_kush_" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/kushsharma_2516" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
 </p>
 
 ---
