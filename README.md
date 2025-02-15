@@ -2,8 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20Everyone!%20🕹️&fontSize=40&animation=fadeIn"/> 
 </p>
 
-<h1 align="center" style="color:#00BFFF;">👋 I'm Kush Sharma</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=👋+I'm+Kush+Sharma" alt="Typing SVG">
+</h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Turning+Coffee+Into+Code+Since+2021;Exploring+New+Tech+Daily;Problem+Solver+At+Heart" alt="Typing SVG" />
+  </a>
+</div>
+
+
 <h3 align="center" style="color:#1E90FF;">A Passionate Frontend Developer & Coder from India</h3>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sharmakush2003&label=Profile%20views&color=00BFFF&style=flat" alt="sharmakush2003" /> 
@@ -18,7 +29,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m exploring **Full Stack Development and REST API Development**
+- 🌱 I’m exploring **Front End Development and REST API Development**
 - 💬 Ask me about **Frontend, JavaScript, and Problem Solving**
 - 📫 Reach me at **kushsharma.cor@gmail.com**
 - 📂 Check My Portfolio: [My Portfolio](https://sharmakush2003.github.io/portFolio/)
