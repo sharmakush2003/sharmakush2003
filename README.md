@@ -59,29 +59,32 @@
 ---
 
 ## 🛠️ Languages & Tools
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,git,python,c,cpp&theme=dark" alt="Skills" /> 
+
+## 🛠️ LANGUAGES & TOOLS
+
+<p align="center">
+  🔥 <strong style="font-size:18px;">Frontend & Backend:</strong>  
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql&theme=dark" alt="Frontend & Backend" />
 </p>
 
----
+<p align="center">
+  ⚙️ <strong style="font-size:18px;">Tools & Other Languages:</strong>  
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,python,c,cpp&theme=dark" alt="Tools & Other Languages" />
+</p>
+
+
 
 ## 📊 GitHub Stats
+
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmakush2003&show_icons=true&theme=onedark" alt="GitHub Stats" /> 
+  <!-- Main Stats and Streak in a row -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmakush2003&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmakush2003&theme=onedark" alt="GitHub Streak" />
 </p>
 
 <p align="center"> 
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmakush2003&layout=compact&theme=onedark" alt="Top Languages" /> 
-</p>
-
----
-
-<p align="center"> 
-  <a href="https://github.com/sharmakush2003"> 
-    <img src="https://user-images.githubusercontent.com/63889819/110340434-e84cfd00-804d-11eb-843e-029fef58c590.gif" alt="Cool Animation" width="500"/> 
-  </a> 
-</p>
-
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> 
 </p>
