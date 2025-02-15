@@ -8,28 +8,29 @@
 
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Turning+Coffee+Into+Code+Since+2021;Exploring+New+Tech+Daily;Problem+Solver+At+Heart" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=FF5733&center=true&vCenter=true&width=900&lines=☕+Fueled+by+Coffee+|+Powered+by+Passion;🚀+Exploring+New+Tech+Every+Day!;💡+Innovator,+Thinker+,+Problem-Solver;🎯+Coding+since+2021+|+Striving+for+Excellence;🔥+Code.+Create.+Build.+Inspire." alt="Typing SVG" />
   </a>
 </div>
 
-<p align="center">  
-  <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=sharmakush2003&theme=onedark&margin-w=10" alt="GitHub Trophies" /> 
-  </a> 
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=🏆+GitHub+Trophies+🏆&fontSize=30&fontColor=fff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sharmakush2003&theme=algolia&no-frame=true&margin-w=20&column=4" alt="GitHub Trophies" />
+  </a> 
 </p>
 
 ## 🚀 About Me  
-- 🔭 Currently working on **Web Development Projects**  
-- 🌱 Exploring **Frontend Development and REST APIs**  
-- 💬 Ask me about **Frontend, JavaScript, and Problem Solving**  
-- 📫 Reach me at **kushsharma.cor@gmail.com**  
-- 📂 Check My Portfolio: [My Portfolio](https://sharmakush2003.github.io/portFolio/)  
-
----
+🔭 Currently working on **Web Development Projects**  
+🌱 Exploring **Frontend Development and REST APIs**  
+💬 Ask me about **Frontend, JavaScript, and Problem Solving**  
+📫 Reach me at **[kushsharma.cor@gmail.com](mailto:kushsharma.cor@gmail.com)**  
+📂 Check My Portfolio: [My Portfolio](https://sharmakush2003.github.io/portFolio/)  
+💻 Passionate about **coding, problem-solving, and innovation!**  
 
 ## 🌐 Connect with Me  
 
@@ -55,8 +56,6 @@
   </a>
 </p>
 
----
-
 ## 🛠️ Languages & Tools  
 
 ### 🔥 **Frontend & Backend:**  
@@ -68,8 +67,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,python,c,cpp&theme=dark" alt="Tools & Other Languages" />
 </p>
-
----
 
 ## 📊 GitHub Stats  
 
