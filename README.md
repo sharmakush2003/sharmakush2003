@@ -24,13 +24,26 @@
   </a> 
 </p>
 
-## 🚀 About Me  
-🔭 Currently working on **Web Development Projects**  
-🌱 Exploring **Frontend Development and REST APIs**  
-💬 Ask me about **Frontend, JavaScript, and Problem Solving**  
-📫 Reach me at **[kushsharma.cor@gmail.com](mailto:kushsharma.cor@gmail.com)**  
-📂 Check My Portfolio: [My Portfolio](https://sharmakush2003.github.io/portFolio/)  
-💻 Passionate about **coding, problem-solving, and innovation!**  
+## 🚀 About Me
+
+✨ Passionate Developer | Problem Solver | Innovator
+
+🔹 Currently Building:
+🛠️ Working on exciting Web Development Projects
+
+🌱 Exploring:
+💡 Diving deep into Frontend Development & REST APIs
+
+💬 Love to Talk About:
+⚡ JavaScript, Frontend Magic & Problem-Solving
+
+📂 Check Out My Work:
+🌐 https://sharmakush2003.github.io/portFolio/
+
+📫 Let’s Connect:
+✉️ kushsharma.cor@gmail.com
+
+💻 Driven by code, fueled by creativity, and inspired by innovation!
 
 ## 🌐 Connect with Me  
 
@@ -60,7 +73,7 @@
 
 ### 🔥 **Frontend & Backend:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql&theme=dark" alt="Frontend & Backend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,tailwindcss,express,mongodb,mysql&theme=dark" alt="Frontend & Backend" />
 </p>
 
 ### ⚙️ **Tools & Other Languages:**  
