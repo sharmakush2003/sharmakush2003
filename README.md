@@ -85,8 +85,6 @@
 
 <p align="center"> 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharmakush2003&show_icons=true&theme=onedark" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmakush2003&theme=onedark" alt="GitHub Streak" />
-</p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmakush2003&layout=compact&theme=onedark" alt="Top Languages" /> 
