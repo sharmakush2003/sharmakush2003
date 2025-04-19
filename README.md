@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20Everyone!%20🕹️&fontSize=40&animation=fadeIn"/> 
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=👋+I'm+Kush+Sharma" alt="Typing SVG">
-</h1>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=🏆+GitHub+Trophies+🏆&fontSize=30&fontColor=fff&animation=fadeIn"/>
 </p>
